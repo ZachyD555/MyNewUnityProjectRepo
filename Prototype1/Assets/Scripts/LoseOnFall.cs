@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+* Zach Daly
+* Assignment 2
+* Loses player on fall
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 //using UnityEngine.UI;

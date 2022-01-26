@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+* Zach Daly
+* Assignment 2
+* Controls Score and trigger zones
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
