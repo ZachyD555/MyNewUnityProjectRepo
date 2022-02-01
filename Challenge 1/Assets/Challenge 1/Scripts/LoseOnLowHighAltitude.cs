@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * Zach Daly
+ * Assignment 2
+ * GameOvers the player if they go too low
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * Zach Daly
+ * Assignment 2
+ * Spins the propeller
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

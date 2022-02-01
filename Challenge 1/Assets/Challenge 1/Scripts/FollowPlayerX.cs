@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * Zach Daly
+ * Assignment 2
+ * Tells the camera to follow the player
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

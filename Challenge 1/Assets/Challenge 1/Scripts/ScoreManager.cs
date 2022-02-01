@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * Zach Daly
+ * Assignment 2
+ * Manages Score for player and updates onscreen
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
